@@ -1,0 +1,1263 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.slide1{
+    height: 500px;
+    width: 1360px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 10px;
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+    padding-right: 5px;
+    
+}
+
+
+
+.bloco1{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.bloco2{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+}
+
+.bloco3{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+
+
+
+/*Slide 02 */
+
+
+.slide2{
+    height: 500px;
+    width: 1360px;
+    margin-top: 5px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 10px;
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+    
+}
+
+
+
+.bloco21{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.bloco22{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+}
+
+.bloco23{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+
+
+
+/* Slide 03*/
+
+.slide3{
+    height: 500px;
+    width: 1360px;
+    margin-top: 5px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 10px;
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+    
+}
+
+
+
+.bloco31{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.bloco32{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+}
+
+.bloco33{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+
+    
+}
+
+
+
+
+
+/* Slide 04*/
+
+.slide4{
+    height: 500px;
+    width: 1360px;
+    margin-top: 5px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+    
+}
+
+
+
+.bloco41{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.bloco42{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+}
+
+.bloco43{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+
+    
+}
+
+
+
+
+
+/* Slide 05*/
+
+.slide5{
+    height: 500px;
+    width: 800px;
+    margin-top: 5px;
+    margin-left: 300px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-flow: row wrap;
+    gap: 20px;
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+    
+}
+
+
+
+.bloco51{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.bloco52{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+}
+
+.bloco53{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+
+    
+}
+.bloco54{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+
+    
+}
+.bloco55{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+
+    
+}
+
+/* Slide 06*/
+
+.slide6{
+    height: 500px;
+    width: 800px;
+    margin-top: 5px;
+    margin-left: 300px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    gap: 20px;
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+    
+}
+
+
+
+.bloco61{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.bloco62{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+}
+
+.bloco63{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+
+    
+}
+.bloco64{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+
+    
+}
+.bloco65{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+
+    
+}
+
+
+/*Slide 07*/
+.slide7{
+    height: 500px;
+    width: 800px;
+    margin-top: 5px;
+    margin-left: 300px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    
+}
+
+.superior{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 20px;
+    
+
+}
+
+.inferior{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 295px;
+       
+}
+
+.bloco71{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    
+}
+
+.bloco72{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    
+
+    
+}
+
+.bloco73{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+   
+
+    
+}
+.bloco74{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+   
+
+    
+}
+.bloco75{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+   
+
+    
+}
+
+.bloco76{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+   
+
+    
+}
+
+
+/* Slide 08*/
+
+.slide8{
+    height: 500px;
+    width: 800px;
+    margin-top: 5px;
+    margin-left: 300px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+   
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+    
+}
+
+
+
+.bloco81{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    
+}
+
+.bloco82{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    
+
+    
+}
+
+.bloco83{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+   
+
+    
+}
+
+
+
+/* Slide 09*/
+
+.slide9{
+    height: 500px;
+    width: 600px;
+    margin-top: 5px;
+    margin-left: 400px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 10px;
+    align-items: center;
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+    
+}
+
+
+
+.bloco91{
+    
+    width: 210px;
+    height: 200px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.bloco92{
+    
+    width: 220px;
+    height: 120px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.bloco93{
+    
+    width: 210px;
+    height: 270px;
+    background-color: rgb(50, 111, 217);
+    margin-right: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+/* Slide 10*/
+
+.slide10{
+    height: 500px;
+    width: 600px;
+    margin-top: 5px;
+    margin-left: 400px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 10px;
+    align-items: stretch;
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+    
+}
+
+
+
+.bloco101{
+    
+    margin-top: 5px;
+    width: 220px;
+    height: 490px;
+    background-color: rgb(50, 111, 217);
+    
+    
+}
+
+.bloco102{
+    
+    margin-top: 5px;
+    width: 220px;
+    height: 490px;
+    background-color: rgb(50, 111, 217);
+    
+
+    
+}
+
+.bloco103{
+    
+    margin-top: 5px;
+    width: 220px;
+    height: 490px;
+    background-color: rgb(50, 111, 217);
+
+    
+}
+
+
+/* Slide 11*/
+
+.slide11{
+    height: 500px;
+    width: 800px;
+    padding-top: 5px;
+    margin-left: 300px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 20px;
+    
+}
+
+
+
+.bloco111{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.bloco112{
+    
+    width: 150px;
+    height: 100px;
+    background-color:red;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+}
+
+.bloco113{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+
+    
+}
+.bloco114{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+
+    
+}
+
+.slide12{
+    height: 500px;
+    width: 800px;
+    padding-top: 5px;
+    margin-left: 300px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 20px;
+    
+}
+
+
+
+.bloco121{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.bloco122{
+    
+    width: 150px;
+    height: 100px;
+    background-color:red;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    order: -1;
+    
+
+    
+}
+
+.bloco123{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+
+    
+}
+.bloco124{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+
+    
+}
+
+
+.slide13{
+    height: 500px;
+    width: 800px;
+    padding-top: 5px;
+    margin-left: 300px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 20px;
+    
+}
+
+
+
+.bloco131{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    order: 1;
+   
+}
+
+.bloco132{
+    
+    width: 150px;
+    height: 100px;
+    background-color:red;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    order: 2 ;
+    
+
+    
+}
+
+.bloco133{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    order: 0;
+   
+
+    
+}
+.bloco134{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    order: 4;
+   
+
+    
+}
+
+
+
+.slide14{
+    height: 500px;
+    width: 800px;
+    padding-top: 5px;
+    margin-left: 300px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 20px;
+    
+}
+
+
+
+.bloco141{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+.bloco142{
+    
+    width: 150px;
+    height: 100px;
+    background-color:red;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+    
+}
+
+.bloco143{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+
+    
+}
+.bloco144{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+
+    
+}
+
+
+.slide15{
+    height: 500px;
+    width: 800px;
+    padding-top: 5px;
+    margin-left: 300px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 20px;
+    
+}
+
+.bloco151{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+
+    
+}
+
+.bloco152{
+    
+    width: 150px;
+    height: 100px;
+    background-color:red;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-self: flex-end;
+    
+    
+
+    
+}
+
+.bloco153{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+
+    
+}
+.bloco154{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+
+    
+}
+
+
+.slide16{
+    height: 500px;
+    width: 800px;
+    padding-top: 5px;
+    margin-left: 300px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 20px;
+    
+}
+
+.bloco161{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+
+    
+}
+
+.bloco162{
+    
+    width: 150px;
+    height: 500px;
+    background-color:red;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-self: stretch;
+    
+    
+
+    
+}
+
+.bloco163{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+
+    
+}
+.bloco164{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+
+    
+}
+
+
+
+
+
+.slide17{
+    height: 500px;
+    width: 800px;
+    padding-top: 5px;
+    margin-left: 300px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+    
+}
+
+.bloco171{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+
+    
+}
+
+.bloco172{
+    
+    width: 380px;
+    height: 100px;
+    background-color:red;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+
+    
+}
+
+.bloco173{
+    
+    width: 150px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+
+    
+}
+
+
+
+.slide18{
+    height: 500px;
+    width: 800px;
+    padding-top: 5px;
+    margin-left: 300px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5px;
+    
+}
+
+.bloco181{
+    
+    width: 300px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+}
+
+.bloco182{
+    
+    width: 185px;
+    height: 100px;
+    background-color:rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+
+    
+}
+
+.bloco183{
+    
+    width: 300px;
+    height: 100px;
+    background-color: rgb(50, 111, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+}
